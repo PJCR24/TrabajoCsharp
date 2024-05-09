@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TrabajoS7\\TrabajoCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{715516F2-BDF6-4EF9-B24B-7010CC21FFF1}|CTestProject\\CTestProject.csproj|d:\\trabajos7\\trabajocsharp\\ctestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715516F2-BDF6-4EF9-B24B-7010CC21FFF1}|CTestProject\\CTestProject.csproj|solutionrelative:ctestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DBB461-BF4B-47FD-A40F-9C813ADD1241}|AlgoritmoC\\AlgoritmoC.csproj|d:\\trabajos7\\trabajocsharp\\algoritmoc\\algoritmocsharp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DBB461-BF4B-47FD-A40F-9C813ADD1241}|AlgoritmoC\\AlgoritmoC.csproj|solutionrelative:algoritmoc\\algoritmocsharp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\TrabajoS7\\TrabajoCsharp\\CTestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CTestProject\\UnitTest1.cs",
+              "ToolTip": "D:\\TrabajoS7\\TrabajoCsharp\\CTestProject\\UnitTest1.cs",
+              "RelativeToolTip": "CTestProject\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T02:31:36.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlgoritmoCsharp.cs",
+              "DocumentMoniker": "D:\\TrabajoS7\\TrabajoCsharp\\AlgoritmoC\\AlgoritmoCsharp.cs",
+              "RelativeDocumentMoniker": "AlgoritmoC\\AlgoritmoCsharp.cs",
+              "ToolTip": "D:\\TrabajoS7\\TrabajoCsharp\\AlgoritmoC\\AlgoritmoCsharp.cs",
+              "RelativeToolTip": "AlgoritmoC\\AlgoritmoCsharp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T02:30:08.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\TrabajoS7\TrabajoCsharp\AlgoritmoC\bin\Debug\AlgoritmoC.exe.config
+D:\TrabajoS7\TrabajoCsharp\AlgoritmoC\bin\Debug\AlgoritmoC.exe
+D:\TrabajoS7\TrabajoCsharp\AlgoritmoC\bin\Debug\AlgoritmoC.pdb
+D:\TrabajoS7\TrabajoCsharp\AlgoritmoC\obj\Debug\AlgoritmoC.csproj.AssemblyReference.cache
+D:\TrabajoS7\TrabajoCsharp\AlgoritmoC\obj\Debug\AlgoritmoC.csproj.CoreCompileInputs.cache
+D:\TrabajoS7\TrabajoCsharp\AlgoritmoC\obj\Debug\AlgoritmoC.exe
+D:\TrabajoS7\TrabajoCsharp\AlgoritmoC\obj\Debug\AlgoritmoC.pdb
